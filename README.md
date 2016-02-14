@@ -3,7 +3,9 @@
 
 
 ## Description
-文にGo、もしくはGolangを入れる。
+単語をGo、もしくはGolangに差し替える。
+
+ikawahaさんのkagomeを使ってます。 https://github.com/ikawaha/kagome 
 
 ## Usage
 
