@@ -3,20 +3,26 @@
 
 
 ## Description
+文にGo、もしくはGolangを入れる。
 
 ## Usage
+
+```
+$ echo ご興味ありましたら、ぜひご覧ください。 | gopun
+Go興味ありましたら、ぜひGolangください。
+```
 
 ## Install
 
 To install, use `go get`:
 
 ```bash
-$ go get -d github.com/Sorami Hisamoto/gopun
+$ go get -d github.com/sorami/gopun
 ```
 
 ## Contribution
 
-1. Fork ([https://github.com/Sorami Hisamoto/gopun/fork](https://github.com/Sorami Hisamoto/gopun/fork))
+1. Fork ([https://github.com/sorami/gopun/fork](https://github.com/sorami/gopun/fork))
 1. Create a feature branch
 1. Commit your changes
 1. Rebase your local changes against the master branch
@@ -26,4 +32,4 @@ $ go get -d github.com/Sorami Hisamoto/gopun
 
 ## Author
 
-[Sorami Hisamoto](https://github.com/Sorami Hisamoto)
+[Sorami Hisamoto](https://github.com/sorami)
